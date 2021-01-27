@@ -1,3 +1,3 @@
 //meu código
 
-// mais código
+// mais código e com conflito
